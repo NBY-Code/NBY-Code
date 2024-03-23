@@ -2,10 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # her 6 saatte bir çalıştır
+    # every 6 hours
     - cron: "0 */6 * * *"
-  
-  # Actions sekmesinden bu işlemi otomatik olarak çalıştırmak için
   workflow_dispatch:
 
 jobs:
@@ -13,18 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-      - name: Generate Snake
-        uses: Platane/snk@master
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          github_user_name: NBY-Code
+          github_user_name: mishmanners
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Show build status
-        run: git status
+      - run: git status
 
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -33,8 +29,7 @@ jobs:
           branch: master
           force: true
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
