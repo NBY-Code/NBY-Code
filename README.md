@@ -1,145 +1,77 @@
-<!-- ================================================== -->
-<!--               🌊 HEADER BANNER 🌊                  -->
-<!-- ================================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AF7,100:7A48E6&height=200&section=header&text=Nuri%20Baran%20Ye%C5%9Filay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=60&descAlign=50" alt="header" />
-</p>
+# 🧪 GIF TEST LAB — 40 Aday
 
-<!-- ================================================== -->
-<!--               ⌨️ TYPING SVG ⌨️                    -->
-<!-- ================================================== -->
-<div align="center">
-  <a href="https://github.com/nby-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9AF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Turkey;C%23+%2F+.NET+%7C+React+%7C+Python+Enthusiast;Always+learning+something+new+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-  </a>
-</div>
+> Repo'ya yükle, render olanları işaretle, kazananı seç. Tablo formatı: 4 sütun × 10 satır.
 
-<br/>
-
-<!-- ================================================== -->
-<!--           👋 ABOUT ME 👋                            -->
-<!-- ================================================== -->
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> I'm Nuri Baran
-</h1>
-
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-
-### 👨‍💻 About Me
-
-- 🔭 I'm a **Full Stack Developer** working with **C#, .NET, React** and **Python**
-- 🌱 Currently exploring new technologies and frameworks
-- 💬 Ask me about anything related to **web development**
-- 📫 Reach me at: **baranyesilay45@gmail.com**
-- ⚡ Fun fact: I love turning coffee into clean code ☕
-
-</td>
-    <td width="45%" align="center" valign="top">
-      <!--
-        Aşağıdaki GIF eğer render OLMAZSA, src'yi şu URL ile değiştir
-        (bu kesin çalışıyor - GIF Test Lab'de #5 olarak doğrulandı):
-        https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
-      -->
-      <img alt="Cool coding GIF" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" />
-    </td>
-  </tr>
+<table>
+<tr>
+  <td align="center"><b>#1</b><br>Programming Dance ✅<br><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"></td>
+  <td align="center"><b>#2</b><br>"No idea" Dog 🐶<br><img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"></td>
+  <td align="center"><b>#3</b><br>Cat Coding 🐱<br><img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"></td>
+  <td align="center"><b>#4</b><br>Coding Monkey 🐵<br><img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#5</b><br>Coding Hamster 🐹<br><img src="https://media.giphy.com/media/ZS57kdXudVqsDX0TLH/giphy.gif" width="200"></td>
+  <td align="center"><b>#6</b><br>Tired Shiba Inu 🐕<br><img src="https://media.giphy.com/media/W8tizn4VT7bAqSJxkY/giphy.gif" width="200"></td>
+  <td align="center"><b>#7</b><br>Sad Bug 🐛<br><img src="https://media.giphy.com/media/oaDcc0LTCuIAiGYrzn/giphy.gif" width="200"></td>
+  <td align="center"><b>#8</b><br>Code Not Working<br><img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#9</b><br>Cat Working 🐈<br><img src="https://media.giphy.com/media/OS9R41QuUqjnwMcqYI/giphy.gif" width="200"></td>
+  <td align="center"><b>#10</b><br>Don't Freak Out<br><img src="https://media.giphy.com/media/P67VNNFZ4grCp1iXBB/giphy.gif" width="200"></td>
+  <td align="center"><b>#11</b><br>Vintage Coding<br><img src="https://media.giphy.com/media/pufOOG2cplDtfyQXL1/giphy.gif" width="200"></td>
+  <td align="center"><b>#12</b><br>Awesome Password<br><img src="https://media.giphy.com/media/XyUZwfR2L9v6J25w7l/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#13</b><br>Tom & Jerry Fun<br><img src="https://media.giphy.com/media/sNpgrhRUmhJhDQCceA/giphy.gif" width="200"></td>
+  <td align="center"><b>#14</b><br>Bang Chan Sunglasses 😎<br><img src="https://media.giphy.com/media/yswXJ3tZvNqIvPPQtx/giphy.gif" width="200"></td>
+  <td align="center"><b>#15</b><br>Lucille Bluth Eye Roll<br><img src="https://media.giphy.com/media/26BRNewWczBInMDhm/giphy.gif" width="200"></td>
+  <td align="center"><b>#16</b><br>Tired Fun<br><img src="https://media.giphy.com/media/uRbZXz3NIpFrDxs8tX/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#17</b><br>Hungry Fun<br><img src="https://media.giphy.com/media/3f8ClWjf9HOx9AozXg/giphy.gif" width="200"></td>
+  <td align="center"><b>#18</b><br>Coding Dev (CodeRower)<br><img src="https://media.giphy.com/media/aHiv481xki1WdhQonS/giphy.gif" width="200"></td>
+  <td align="center"><b>#19</b><br>Coding Dev 2<br><img src="https://media.giphy.com/media/TiRfN8fgoaJlGI9pbn/giphy.gif" width="200"></td>
+  <td align="center"><b>#20</b><br>Coding Dev 3<br><img src="https://media.giphy.com/media/fl3jw1xFrpmxGUrWzS/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#21</b><br>Coding Dev 4<br><img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="200"></td>
+  <td align="center"><b>#22</b><br>Coding Dev 5<br><img src="https://media.giphy.com/media/d314tXXrfzPGqZlnMu/giphy.gif" width="200"></td>
+  <td align="center"><b>#23</b><br>Working Engineer<br><img src="https://media.giphy.com/media/1m4ukmk9Lu90At2FGu/giphy.gif" width="200"></td>
+  <td align="center"><b>#24</b><br>Working Engineer 2<br><img src="https://media.giphy.com/media/ItIWDCyzWUBOvQYWdC/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#25</b><br>Working Dev<br><img src="https://media.giphy.com/media/J2F2sOPmoTjYy57spN/giphy.gif" width="200"></td>
+  <td align="center"><b>#26</b><br>Software Dev Fun<br><img src="https://media.giphy.com/media/YcXkgqd7wfSrbc82Ya/giphy.gif" width="200"></td>
+  <td align="center"><b>#27</b><br>Team Coding<br><img src="https://media.giphy.com/media/51AhgeKNAamtcmcpGx/giphy.gif" width="200"></td>
+  <td align="center"><b>#28</b><br>Coding Engineer<br><img src="https://media.giphy.com/media/ehw7lcf9szJJfJKGSJ/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#29</b><br>Vibe Coding<br><img src="https://media.giphy.com/media/WRsbyaGN8Fwrx9qLTn/giphy.gif" width="200"></td>
+  <td align="center"><b>#30</b><br>FAB Coding<br><img src="https://media.giphy.com/media/S8VTGrBPjwo7GnIGiE/giphy.gif" width="200"></td>
+  <td align="center"><b>#31</b><br>Fun Coding (FAB)<br><img src="https://media.giphy.com/media/MZEIaQ799hT1VXMqz8/giphy.gif" width="200"></td>
+  <td align="center"><b>#32</b><br>Code Brown 💩<br><img src="https://media.giphy.com/media/mZyri2n4XHep8CZCGC/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#33</b><br>Reaction "What"<br><img src="https://media.giphy.com/media/HO2cuakPoSngvitf0M/giphy.gif" width="200"></td>
+  <td align="center"><b>#34</b><br>Chicken Burger Meme<br><img src="https://media.giphy.com/media/J9j70Ijy4q6JKrCz6W/giphy.gif" width="200"></td>
+  <td align="center"><b>#35</b><br>"Not Funny" Bounce<br><img src="https://media.giphy.com/media/xT0xewluEy8AMHXWWQ/giphy.gif" width="200"></td>
+  <td align="center"><b>#36</b><br>Dev Mistake AD<br><img src="https://media.giphy.com/media/G4rIGiMVtrJ1S/giphy.gif" width="200"></td>
+</tr>
+<tr>
+  <td align="center"><b>#37</b><br>Shiba Explaining<br><img src="https://media.giphy.com/media/KPC2lTPDGb6qIXZJhN/giphy.gif" width="200"></td>
+  <td align="center"><b>#38</b><br>Shiba Education<br><img src="https://media.giphy.com/media/hHWCbm8abGzwAslENY/giphy.gif" width="200"></td>
+  <td align="center"><b>#39</b><br>Coding AI Alliance<br><img src="https://media.giphy.com/media/WD01fV9KSg4Vw3DYWc/giphy.gif" width="200"></td>
+  <td align="center"><b>#40</b><br>Cool Coding (GitHub)<br><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="200"></td>
+</tr>
 </table>
 
-<!-- ================================================== -->
-<!--           🌈 RAINBOW DIVIDER 🌈                     -->
-<!-- ================================================== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
+---
 
-<!-- ================================================== -->
-<!--             🌐 CONNECT WITH ME 🌐                  -->
-<!-- ================================================== -->
-<h3 align="center">🌐 Connect with me</h3>
+## 🎯 Sonraki adım
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nuri-baran-ye%C5%9Filay-61201b190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:baranyesilay45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/nby-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Yukarıdaki ekran görüntüsünü atınca:
 
-<!-- ================================================== -->
-<!--          🛠️ TECH STACK 🛠️                           -->
-<!-- ================================================== -->
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="center"><b>Frameworks & Libraries</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-<p align="center"><b>Database</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
-</p>
-
-<!-- ================================================== -->
-<!--           🌈 RAINBOW DIVIDER 🌈                     -->
-<!-- ================================================== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
-
-<!-- ================================================== -->
-<!--      📊 GITHUB PROFILE BADGES 📊                    -->
-<!-- ================================================== -->
-<h3 align="center">📊 GitHub Profile</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nby-code?label=Followers&style=for-the-badge&logo=github&color=2E9AF7&labelColor=1F2335" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nby-code?label=Total%20Stars&style=for-the-badge&logo=github&color=DAA520&labelColor=1F2335" alt="Stars" />
-</p>
-
-<br/>
-
-<!-- ================================================== -->
-<!--           🌈 RAINBOW DIVIDER 🌈                     -->
-<!-- ================================================== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
-
-<!-- ================================================== -->
-<!--           💭 RANDOM DEV QUOTE 💭                    -->
-<!-- ================================================== -->
-<h3 align="center">💭 Dev Quote of the Day</h3>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
-<br/>
-
-<!-- ================================================== -->
-<!--        🎨 ANIMATED CODING ART 🎨                    -->
-<!-- ================================================== -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4cb142834.gif" width="100%" alt="coding animation" />
-</div>
-
-<br/>
-
-<!-- ================================================== -->
-<!--             🌊 FOOTER BANNER 🌊                     -->
-<!-- ================================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AF7,100:7A48E6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
-</p>
+1. **Hangi numaralar render oldu** → bana liste halinde söyle (örn. "1, 5, 9, 23, 40 çalıştı")  
+2. **İçinden hangisini en troll/sevimli buluyorsan** onu söyle (örn. "5 en iyisi")  
+3. Ben kazananı **ana README**'nin About Me bölümüne yerleştiririm
+4. Bu test dosyasını silersin
