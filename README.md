@@ -1,6 +1,5 @@
 <!-- ================================================== -->
 <!--               🌊 HEADER BANNER 🌊                  -->
-<!--   Renk: mavi-mor gradient (test edilmiş, çalışan) -->
 <!-- ================================================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AF7,100:7A48E6&height=200&section=header&text=Nuri%20Baran%20Ye%C5%9Filay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=60&descAlign=50" alt="header" />
@@ -18,13 +17,13 @@
 <br/>
 
 <!-- ================================================== -->
-<!--             👋 ABOUT ME 👋                          -->
+<!--           👋 ABOUT ME (TROLL CAT GIF) 👋           -->
 <!-- ================================================== -->
-<h1>
+<h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> I'm Nuri Baran
 </h1>
 
-<table>
+<table align="center">
   <tr>
     <td width="55%" valign="top">
 
@@ -32,13 +31,14 @@
 
 - 🔭 I'm a **Full Stack Developer** working with **C#, .NET, React** and **Python**
 - 🌱 Currently exploring new technologies and frameworks
+- 🚧 Currently working on improving my **clean code skills**
 - 💬 Ask me about anything related to **web development**
 - 📫 Reach me at: **baranyesilay45@gmail.com**
-- ⚡ Fun fact: I love turning coffee into clean code ☕
+- ⚡ Fun fact: I write code, my cat reviews it 🐈‍⬛
 
 </td>
     <td width="45%" align="center" valign="top">
-      <img alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+      <img alt="Cat coding furiously" width="320" src="https://media.tenor.com/x8v1oNUOmg4AAAAC/cat-jam.gif" />
     </td>
   </tr>
 </table>
@@ -51,9 +51,9 @@
 <!-- ================================================== -->
 <!--             🌐 CONNECT WITH ME 🌐                  -->
 <!-- ================================================== -->
-### 🌐 Connect with me
+<h3 align="center">🌐 Connect with me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nuri-baran-ye%C5%9Filay-61201b190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -68,11 +68,10 @@
 <!-- ================================================== -->
 <!--          🛠️ TECH STACK 🛠️                           -->
 <!-- ================================================== -->
-### 🛠️ Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-**Languages**
-
-<p align="left">
+<p align="center"><b>Languages</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -80,17 +79,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Frameworks & Libraries**
-
-<p align="left">
+<p align="center"><b>Frameworks & Libraries</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**Database**
-
-<p align="left">
+<p align="center"><b>Database</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
 </p>
 
@@ -101,10 +98,8 @@
 
 <!-- ================================================== -->
 <!--      📊 GITHUB PROFILE BADGES (shields.io) 📊      -->
-<!--   github-readme-stats yerine GitHub'ın kendi      -->
-<!--   public verisini kullanan shields.io rozetleri   -->
 <!-- ================================================== -->
-### 📊 GitHub Profile
+<h3 align="center">📊 GitHub Profile</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/nby-code?label=Followers&style=for-the-badge&logo=github&color=2E9AF7&labelColor=1F2335" alt="Followers" />
@@ -121,7 +116,7 @@
 <!-- ================================================== -->
 <!--           💭 RANDOM DEV QUOTE 💭                    -->
 <!-- ================================================== -->
-### 💭 Dev Quote of the Day
+<h3 align="center">💭 Dev Quote of the Day</h3>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -138,10 +133,9 @@
 
 <br/>
 
-
 <!-- ================================================== -->
 <!--             🌊 FOOTER BANNER 🌊                     -->
 <!-- ================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AF7,100:7A48E6&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AF7,100:7A48E6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
 </p>
