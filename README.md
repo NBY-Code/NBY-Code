@@ -43,11 +43,9 @@
 </table>
 
 <!-- ================================================== -->
-<!--           〰️ ANIMATED WAVE DIVIDER 〰️            -->
+<!--           🌈 RAINBOW DIVIDER 🌈                     -->
 <!-- ================================================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/svg/separador.svg" width="100%" alt="divider" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
 
 <!-- ================================================== -->
 <!--             🌐 CONNECT WITH ME 🌐                  -->
@@ -96,11 +94,9 @@
 </p>
 
 <!-- ================================================== -->
-<!--           〰️ ANIMATED WAVE DIVIDER 〰️            -->
+<!--           🌈 RAINBOW DIVIDER 🌈                     -->
 <!-- ================================================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/svg/separador.svg" width="100%" alt="divider" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
 
 <!-- ================================================== -->
 <!--             📊 GITHUB STATS 📊                      -->
@@ -108,8 +104,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nby-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="nby-code stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nby-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nby-code&show_icons=true&theme=tokyonight&hide_border=true" alt="nby-code stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nby-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -128,11 +124,31 @@
 </div>
 
 <!-- ================================================== -->
-<!--           〰️ ANIMATED WAVE DIVIDER 〰️            -->
+<!--           🌈 RAINBOW DIVIDER 🌈                     -->
 <!-- ================================================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/svg/separador.svg" width="100%" alt="divider" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
+
+<!-- ================================================== -->
+<!--          🚀 FEATURED PROJECTS 🚀                    -->
+<!-- ================================================== -->
+<!--
+  ÖNEMLİ: Aşağıdaki "REPO-ADI-1" ve "REPO-ADI-2" yerlerini
+  kendi repo isimlerinle değiştir. Repo isimlerini bulmak için:
+  https://github.com/nby-code?tab=repositories adresine git,
+  beğendiğin 2 repo'nun ismini buraya yapıştır.
+-->
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/nby-code/REPO-ADI-1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nby-code&repo=REPO-ADI-1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+  </a>
+  <a href="https://github.com/nby-code/REPO-ADI-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nby-code&repo=REPO-ADI-2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+  </a>
+</div>
+
+<br/>
 
 <!-- ================================================== -->
 <!--           💭 RANDOM DEV QUOTE 💭                    -->
@@ -146,19 +162,10 @@
 <br/>
 
 <!-- ================================================== -->
-<!--             🐍 SNAKE ANIMATION 🐍                   -->
+<!--        🎨 ANIMATED TECH SHOWCASE 🎨                 -->
 <!-- ================================================== -->
-### 🐍 Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/nby-code/nby-code/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/nby-code/nby-code/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation"
-         src="https://raw.githubusercontent.com/nby-code/nby-code/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4cb142834.gif" width="100%" alt="coding animation" />
 </div>
 
 <br/>
