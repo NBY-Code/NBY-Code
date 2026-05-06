@@ -10,14 +10,14 @@
 <!-- ================================================== -->
 <div align="center">
   <a href="https://github.com/nby-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9AF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Turkey;C%23+%2F+.NET+%7C+React+%7C+Python+Enthusiast;Always+learning+something+new+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9AF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Turkey;C%23+%2F+.NET+%7C+React+%7C+Python+Enthusiast;Production'da+bug+var+ama+'this+is+fine'+%F0%9F%94%A5;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <!-- ================================================== -->
-<!--           👋 ABOUT ME (TROLL CAT GIF) 👋           -->
+<!--           👋 ABOUT ME (THIS IS FINE MEME) 👋       -->
 <!-- ================================================== -->
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> I'm Nuri Baran
@@ -31,14 +31,15 @@
 
 - 🔭 I'm a **Full Stack Developer** working with **C#, .NET, React** and **Python**
 - 🌱 Currently exploring new technologies and frameworks
-- 🚧 Currently working on improving my **clean code skills**
+- 🚧 Currently debugging something that worked yesterday
 - 💬 Ask me about anything related to **web development**
 - 📫 Reach me at: **baranyesilay45@gmail.com**
-- ⚡ Fun fact: I write code, my cat reviews it 🐈‍⬛
+- 🔥 Mood: *"It compiles. Ship it."*
 
 </td>
     <td width="45%" align="center" valign="top">
-      <img alt="Cat coding furiously" width="320" src="https://media.tenor.com/x8v1oNUOmg4AAAAC/cat-jam.gif" />
+      <img alt="This is Fine — debugging in production" width="320" src="https://media.giphy.com/media/z3iA7yeneHgWA/giphy.gif" />
+      <p><i>"Production'da bir şey kırıldı ama this is fine"</i></p>
     </td>
   </tr>
 </table>
@@ -97,7 +98,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
 
 <!-- ================================================== -->
-<!--      📊 GITHUB PROFILE BADGES (shields.io) 📊      -->
+<!--      📊 GITHUB PROFILE BADGES 📊                    -->
 <!-- ================================================== -->
 <h3 align="center">📊 GitHub Profile</h3>
 
