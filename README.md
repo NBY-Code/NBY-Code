@@ -43,6 +43,13 @@
 </table>
 
 <!-- ================================================== -->
+<!--           〰️ ANIMATED WAVE DIVIDER 〰️            -->
+<!-- ================================================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/svg/separador.svg" width="100%" alt="divider" />
+</p>
+
+<!-- ================================================== -->
 <!--             🌐 CONNECT WITH ME 🌐                  -->
 <!-- ================================================== -->
 ### 🌐 Connect with me
@@ -60,41 +67,40 @@
 </p>
 
 <!-- ================================================== -->
-<!--             🛠️ TECH STACK 🛠️                       -->
+<!--          🛠️ TECH STACK (BADGES, GROUPED) 🛠️        -->
 <!-- ================================================== -->
 ### 🛠️ Languages and Tools
 
+**Languages**
+
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<br/>
+**Frameworks & Libraries**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+**Database**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
+</p>
+
+<!-- ================================================== -->
+<!--           〰️ ANIMATED WAVE DIVIDER 〰️            -->
+<!-- ================================================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/svg/separador.svg" width="100%" alt="divider" />
+</p>
 
 <!-- ================================================== -->
 <!--             📊 GITHUB STATS 📊                      -->
@@ -121,15 +127,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nby-code&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
-<br/>
+<!-- ================================================== -->
+<!--           〰️ ANIMATED WAVE DIVIDER 〰️            -->
+<!-- ================================================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/svg/separador.svg" width="100%" alt="divider" />
+</p>
 
 <!-- ================================================== -->
-<!--             🏆 TROPHIES 🏆                          -->
+<!--           💭 RANDOM DEV QUOTE 💭                    -->
 <!-- ================================================== -->
-### 🏆 GitHub Trophies
+### 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nby-code&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
