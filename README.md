@@ -16,9 +16,16 @@
 
 <br/>
 
+<!-- ================================================== -->
+<!--           👋 ABOUT ME 👋                            -->
+<!-- ================================================== -->
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> I'm Nuri Baran
 </h1>
+
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -28,75 +35,17 @@
 - 📫 Reach me at: **baranyesilay45@gmail.com**
 - ⚡ Fun fact: I love turning coffee into clean code ☕
 
----
-
-## 🧪 GIF TEST LAB — hangisi çalışıyor?
-
-> **Not (Nuri için):** Bu bölüm geçici. Aşağıdaki 8 adaydan hangileri render oluyor ekran görüntüsünden göreceğiz, kazananı seçip kalanını sileceğiz.
-
-### GIF #1 — Dribbble (önceden çalıştığı doğrulandı)
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="GIF 1: Dribbble programmer" />
-</p>
-
----
-
-### GIF #2 — Giphy (i.giphy.com / This is Fine)
-
-<p align="center">
-  <img src="https://i.giphy.com/z3iA7yeneHgWA.gif" width="320" alt="GIF 2: This is Fine" />
-</p>
-
----
-
-### GIF #3 — Giphy (media1 / Hackerman)
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/iiwEpd5tKor04/giphy.gif" width="320" alt="GIF 3: Hackerman" />
-</p>
-
----
-
-### GIF #4 — Giphy (media / I have no idea what I'm doing)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qDPuVI9N8Yo4w/giphy.gif" width="320" alt="GIF 4: No idea dog" />
-</p>
-
----
-
-### GIF #5 — Giphy (programming dance)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="GIF 5: Programming dance" />
-</p>
-
----
-
-### GIF #6 — KnowYourMeme CDN (This is Fine HD)
-
-<p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/001/094/449/40c.gif" width="320" alt="GIF 6: This is Fine KYM" />
-</p>
-
----
-
-### GIF #7 — Giphy (cat aggressive typing)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="320" alt="GIF 7: Cat keyboard" />
-</p>
-
----
-
-### GIF #8 — Tenor (cat coding)
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/hbrBQRaGdmsAAAAd/cat-coding.gif" width="320" alt="GIF 8: Tenor cat coding" />
-</p>
-
----
+</td>
+    <td width="45%" align="center" valign="top">
+      <!--
+        Aşağıdaki GIF eğer render OLMAZSA, src'yi şu URL ile değiştir
+        (bu kesin çalışıyor - GIF Test Lab'de #5 olarak doğrulandı):
+        https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+      -->
+      <img alt="Cool coding GIF" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 <!-- ================================================== -->
 <!--           🌈 RAINBOW DIVIDER 🌈                     -->
