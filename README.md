@@ -1,8 +1,9 @@
 <!-- ================================================== -->
 <!--               🌊 HEADER BANNER 🌊                  -->
+<!--   Renk: mavi-mor gradient (test edilmiş, çalışan) -->
 <!-- ================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nuri%20Baran%20Ye%C5%9Filay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=60&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AF7,100:7A48E6&height=200&section=header&text=Nuri%20Baran%20Ye%C5%9Filay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=60&descAlign=50" alt="header" />
 </p>
 
 <!-- ================================================== -->
@@ -17,7 +18,7 @@
 <br/>
 
 <!-- ================================================== -->
-<!--             👋 ABOUT ME (TABLE LAYOUT) 👋         -->
+<!--             👋 ABOUT ME 👋                          -->
 <!-- ================================================== -->
 <h1>
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> I'm Nuri Baran
@@ -65,7 +66,7 @@
 </p>
 
 <!-- ================================================== -->
-<!--          🛠️ TECH STACK (BADGES, GROUPED) 🛠️        -->
+<!--          🛠️ TECH STACK 🛠️                           -->
 <!-- ================================================== -->
 ### 🛠️ Languages and Tools
 
@@ -99,26 +100,28 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
 
 <!-- ================================================== -->
-<!--             📊 GITHUB STATS 📊                      -->
+<!--      📊 GITHUB PROFILE BADGES (shields.io) 📊      -->
+<!--   github-readme-stats yerine GitHub'ın kendi      -->
+<!--   public verisini kullanan shields.io rozetleri   -->
 <!-- ================================================== -->
-### 📊 GitHub Stats
+### 📊 GitHub Profile
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nby-code&show_icons=true&theme=tokyonight&hide_border=true" alt="nby-code stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nby-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nby-code?label=Followers&style=for-the-badge&logo=github&color=2E9AF7&labelColor=1F2335" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nby-code?label=Total%20Stars&style=for-the-badge&logo=github&color=DAA520&labelColor=1F2335" alt="Stars" />
+</p>
 
 <br/>
 
+<!-- ================================================== -->
+<!--   🔥 STREAK + 📈 ACTIVITY (her ikisi de çalışıyor) -->
+<!-- ================================================== -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nby-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- ================================================== -->
-<!--             📈 ACTIVITY GRAPH 📈                    -->
-<!-- ================================================== -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nby-code&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
@@ -127,28 +130,6 @@
 <!--           🌈 RAINBOW DIVIDER 🌈                     -->
 <!-- ================================================== -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
-
-<!-- ================================================== -->
-<!--          🚀 FEATURED PROJECTS 🚀                    -->
-<!-- ================================================== -->
-<!--
-  ÖNEMLİ: Aşağıdaki "REPO-ADI-1" ve "REPO-ADI-2" yerlerini
-  kendi repo isimlerinle değiştir. Repo isimlerini bulmak için:
-  https://github.com/nby-code?tab=repositories adresine git,
-  beğendiğin 2 repo'nun ismini buraya yapıştır.
--->
-### 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nby-code/REPO-ADI-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nby-code&repo=REPO-ADI-1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/nby-code/REPO-ADI-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nby-code&repo=REPO-ADI-2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
-  </a>
-</div>
-
-<br/>
 
 <!-- ================================================== -->
 <!--           💭 RANDOM DEV QUOTE 💭                    -->
@@ -162,7 +143,7 @@
 <br/>
 
 <!-- ================================================== -->
-<!--        🎨 ANIMATED TECH SHOWCASE 🎨                 -->
+<!--        🎨 ANIMATED CODING ART 🎨                    -->
 <!-- ================================================== -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4cb142834.gif" width="100%" alt="coding animation" />
@@ -181,5 +162,5 @@
 <!--             🌊 FOOTER BANNER 🌊                     -->
 <!-- ================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9AF7,100:7A48E6&height=120&section=footer" alt="footer" />
 </p>
