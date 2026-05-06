@@ -114,19 +114,6 @@
 <br/>
 
 <!-- ================================================== -->
-<!--   🔥 STREAK + 📈 ACTIVITY (her ikisi de çalışıyor) -->
-<!-- ================================================== -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nby-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nby-code&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</div>
-
-<!-- ================================================== -->
 <!--           🌈 RAINBOW DIVIDER 🌈                     -->
 <!-- ================================================== -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-803e54ada2ff.gif" width="100%" alt="rainbow divider" />
@@ -151,12 +138,6 @@
 
 <br/>
 
-<!-- ================================================== -->
-<!--             👀 PROFILE VIEWS 👀                     -->
-<!-- ================================================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nby-code&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</div>
 
 <!-- ================================================== -->
 <!--             🌊 FOOTER BANNER 🌊                     -->
