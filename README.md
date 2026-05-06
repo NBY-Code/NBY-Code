@@ -10,39 +10,93 @@
 <!-- ================================================== -->
 <div align="center">
   <a href="https://github.com/nby-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9AF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Turkey;C%23+%2F+.NET+%7C+React+%7C+Python+Enthusiast;Production'da+bug+var+ama+'this+is+fine'+%F0%9F%94%A5;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9AF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Turkey;C%23+%2F+.NET+%7C+React+%7C+Python+Enthusiast;Always+learning+something+new+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- ================================================== -->
-<!--           👋 ABOUT ME (THIS IS FINE MEME) 👋       -->
-<!-- ================================================== -->
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> I'm Nuri Baran
 </h1>
-
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 
 - 🔭 I'm a **Full Stack Developer** working with **C#, .NET, React** and **Python**
 - 🌱 Currently exploring new technologies and frameworks
-- 🚧 Currently debugging something that worked yesterday
 - 💬 Ask me about anything related to **web development**
 - 📫 Reach me at: **baranyesilay45@gmail.com**
-- 🔥 Mood: *"It compiles. Ship it."*
+- ⚡ Fun fact: I love turning coffee into clean code ☕
 
-</td>
-    <td width="45%" align="center" valign="top">
-      <img alt="This is Fine — debugging in production" width="320" src="https://media.giphy.com/media/z3iA7yeneHgWA/giphy.gif" />
-      <p><i>"Production'da bir şey kırıldı ama this is fine"</i></p>
-    </td>
-  </tr>
-</table>
+---
+
+## 🧪 GIF TEST LAB — hangisi çalışıyor?
+
+> **Not (Nuri için):** Bu bölüm geçici. Aşağıdaki 8 adaydan hangileri render oluyor ekran görüntüsünden göreceğiz, kazananı seçip kalanını sileceğiz.
+
+### GIF #1 — Dribbble (önceden çalıştığı doğrulandı)
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="GIF 1: Dribbble programmer" />
+</p>
+
+---
+
+### GIF #2 — Giphy (i.giphy.com / This is Fine)
+
+<p align="center">
+  <img src="https://i.giphy.com/z3iA7yeneHgWA.gif" width="320" alt="GIF 2: This is Fine" />
+</p>
+
+---
+
+### GIF #3 — Giphy (media1 / Hackerman)
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/iiwEpd5tKor04/giphy.gif" width="320" alt="GIF 3: Hackerman" />
+</p>
+
+---
+
+### GIF #4 — Giphy (media / I have no idea what I'm doing)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qDPuVI9N8Yo4w/giphy.gif" width="320" alt="GIF 4: No idea dog" />
+</p>
+
+---
+
+### GIF #5 — Giphy (programming dance)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="GIF 5: Programming dance" />
+</p>
+
+---
+
+### GIF #6 — KnowYourMeme CDN (This is Fine HD)
+
+<p align="center">
+  <img src="https://i.kym-cdn.com/photos/images/original/001/094/449/40c.gif" width="320" alt="GIF 6: This is Fine KYM" />
+</p>
+
+---
+
+### GIF #7 — Giphy (cat aggressive typing)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="320" alt="GIF 7: Cat keyboard" />
+</p>
+
+---
+
+### GIF #8 — Tenor (cat coding)
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/hbrBQRaGdmsAAAAd/cat-coding.gif" width="320" alt="GIF 8: Tenor cat coding" />
+</p>
+
+---
 
 <!-- ================================================== -->
 <!--           🌈 RAINBOW DIVIDER 🌈                     -->
