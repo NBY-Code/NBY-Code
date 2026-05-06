@@ -1,39 +1,41 @@
 name: Generate Snake
 
 on:
+  # Her 12 saatte bir çalışır (eski 6 saat çok agresif, gereksiz minute harcıyor)
   schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
+
+  # Manuel tetikleme
   workflow_dispatch:
 
+  # main/master'a her push'ta da bir kez çalışsın
+  push:
+    branches:
+      - main
+      - master
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2.5.0 # Node.js 20'ye geçiş yapıldı
+    permissions:
+      contents: write
 
-      - name: Generate snake
-        uses: Platane/snk@master
+    steps:
+      - name: Generate snake animation files
+        uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: mishmanners
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # ÖNEMLİ: Burası senin kullanıcı adın olmalı, başkasının değil
+          github_user_name: nby-code
+          # Hem light hem dark tema için, hem svg hem gif üret
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Check git status
-        run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.9.0 # set-output komutlarının güncellenmiş bir sürümü
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
